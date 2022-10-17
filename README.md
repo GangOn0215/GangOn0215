@@ -1,6 +1,6 @@
 # Welcome 👋
 <img src="https://wallpaperaccess.com/full/2525121.jpg" />
-저는 백엔드 개발자를 꿈꾸고 있는 취준생 입니다
+저는 ~~백엔드 개발자를 꿈꾸고 있는 취준생~~ 입니다
 
 ## My Stack
 ### FE

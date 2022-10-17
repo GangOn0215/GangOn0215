@@ -1,6 +1,6 @@
 # Welcome 👋
 <img src="https://wallpaperaccess.com/full/2525121.jpg" />
-저는 ~~백엔드 개발자를 꿈꾸고 있는 취준생~~ 입니다
+저는 백엔드 신입 개발자 입니다!
 
 ## My Stack
 ### FE
@@ -11,8 +11,9 @@
 
 ### BE
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> &nbsp 
 </p>
 
 ### I Love Coffee

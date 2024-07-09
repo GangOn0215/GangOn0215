@@ -1,6 +1,5 @@
 # Welcome 👋
 <img src="https://wallpaperaccess.com/full/2525121.jpg" />
-저는 백엔드 신입 개발자 입니다!
 
 ## My Stack
 ### FE
@@ -23,4 +22,3 @@
 
 ## TIL
 ### [Today I Learned](https://github.com/GangOn0215/dev-til)  <br>
-오늘 난 공부를 했다는 주제로 `오늘 할 일(계획)`, `오늘 한 일(회고)`, `내일 할 일(계획)`, `장기 계획` 순으로 정리하여 매일 올릴려고 노력하고 있습니다. ✍

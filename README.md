@@ -18,7 +18,3 @@
 
 ### I Love Coffee
 <img src="https://img.shields.io/badge/Coffee-FFDD00?style=flat-square&logo=BuyMeACoffee&logoColor=black"/>
-
-
-## TIL
-### [Today I Learned](https://github.com/GangOn0215/dev-til)  <br>
